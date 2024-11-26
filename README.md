@@ -1,3 +1,4 @@
+<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 # 💫 About Me:
 Como desarrollador de software, me caracterizo por mi constante curiosidad y<br>mi deseo de descubrir y dominar tecnologías emergentes para idear soluciones<br>tecnológicas vanguardistas. Mi trabajo se distingue por la dedicación y la<br>seriedad con las que abordo cada tarea. Tengo la capacidad de enfrentarme a<br>desafíos inesperados y adquirir nuevos conocimientos con agilidad.
 
