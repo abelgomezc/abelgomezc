@@ -6,7 +6,7 @@
 </p>
 
 
-# 💫 About Me:
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 Como desarrollador de software, me caracterizo por mi constante curiosidad y<br>mi deseo de descubrir y dominar tecnologías emergentes para idear soluciones<br>tecnológicas vanguardistas. Mi trabajo se distingue por la dedicación y la<br>seriedad con las que abordo cada tarea. Tengo la capacidad de enfrentarme a<br>desafíos inesperados y adquirir nuevos conocimientos con agilidad.
 
 
