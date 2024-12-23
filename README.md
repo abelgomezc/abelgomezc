@@ -13,9 +13,14 @@
 
 Como desarrollador de software, me caracterizo por mi constante curiosidad y<br>mi deseo de descubrir y dominar tecnologías emergentes para idear soluciones<br>tecnológicas vanguardistas. Mi trabajo se distingue por la dedicación y la<br>seriedad con las que abordo cada tarea. Tengo la capacidad de enfrentarme a<br>desafíos inesperados y adquirir nuevos conocimientos con agilidad.
 
+<!-- CONTACTO -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/abel-gomez-17080529b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="david mendoza ramos" height="30" width="40" /></a>
+<a href="https://www.facebook.com/abel.gomez.37051" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="xDeckland#0872" height="30" width="40" /></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/abel.gomez.37051) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abelgomez5622/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abel-g%C3%B3mez-17080529b/) 
+<a href="https://www.instagram.com/abelgomez5622/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
