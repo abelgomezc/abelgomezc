@@ -51,8 +51,6 @@
 
 🇪🇨 Soy desarrollador de software con más de **2 años de experiencia profesional** especializado en backend con **Java/Spring Boot** y **PHP/Symfony**.
 
-🚀 Me apasiona construir **sistemas empresariales escalables** con arquitecturas de microservicios, Kafka, gRPC y bases de datos Oracle.
-
 💡 Me caracterizo por mi **constante curiosidad** y mi deseo de descubrir y dominar tecnologías emergentes para idear soluciones tecnológicas vanguardistas.
 
 🎯 Mi trabajo se distingue por la **dedicación y la seriedad** con las que abordo cada tarea — me enfrento a desafíos inesperados y adquiero nuevos conocimientos con agilidad.
