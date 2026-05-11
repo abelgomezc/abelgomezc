@@ -24,7 +24,6 @@
 <br/><br/>
 
 <!-- ════════════════════ TOP BADGES ════════════════════ -->
-<a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=abelgomezc&icon=0&color=0" alt="visitor counter" /></a>
 <img src="https://komarev.com/ghpvc/?username=abelgomezc&label=Profile%20views&color=0e75b6&style=flat-square" alt="profile views" />
 <img src="https://img.shields.io/github/followers/abelgomezc?label=Followers&style=flat-square&color=0e75b6&logo=github" alt="followers" />
 <img src="https://img.shields.io/badge/Cuenca-Ecuador-FFD700?style=flat-square&logo=googlemaps&logoColor=white" alt="location" />
@@ -75,26 +74,7 @@ const abel = {
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="32px"> Connect with me
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/abel-gomez-17080529b/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:abelgomezcondo@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-</a>
-<a href="https://abelgomezc.github.io/porfolio" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" />
-</a>
-<a href="https://github.com/abelgomezc" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="https://www.facebook.com/abel.gomez.37051" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-</a>
-<a href="https://www.instagram.com/abelgomez5622/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-</a>
-
+<a href="https://www.linkedin.com/in/abel-gomez-17080529b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="mailto:abelgomezcondo@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a> <a href="https://abelgomezc.github.io/porfolio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Portfolio" /></a> <a href="https://github.com/abelgomezc" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a> <a href="https://www.facebook.com/abel.gomez.37051" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> <a href="https://www.instagram.com/abelgomez5622/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 <!-- ════════════════════ ANIMATED DIVIDER ════════════════════ -->
@@ -107,61 +87,69 @@ const abel = {
 
 ### 💬 Languages
 
-<a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/></a>
-<a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/></a>
-<a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="55" height="55"/><br/>Java</a></td>
+<td align="center" width="90"><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="55" height="55"/><br/>PHP</a></td>
+<td align="center" width="90"><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55" height="55"/><br/>Python</a></td>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55" height="55"/><br/>JavaScript</a></td>
+<td align="center" width="90"><a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="55" height="55"/><br/>TypeScript</a></td>
+<td align="center" width="90"><a href="https://www.gnu.org/software/bash/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="55" height="55"/><br/>Bash</a></td>
+</tr></table>
 
 ### ⚙️ Backend
 
-<a href="https://spring.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="spring" width="55" height="55"/></a>
-<a href="https://symfony.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" alt="symfony" width="55" height="55"/></a>
-<a href="https://laravel.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="55" height="55"/></a>
-<a href="https://www.djangoproject.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="55" height="55"/></a>
-<a href="https://nodejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://spring.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="55" height="55"/><br/>Spring</a></td>
+<td align="center" width="90"><a href="https://symfony.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="55" height="55"/><br/>Symfony</a></td>
+<td align="center" width="90"><a href="https://laravel.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="55" height="55"/><br/>Laravel</a></td>
+<td align="center" width="90"><a href="https://www.djangoproject.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="55" height="55"/><br/>Django</a></td>
+<td align="center" width="90"><a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="55" height="55"/><br/>Node.js</a></td>
+</tr></table>
 
 ### 🎨 Frontend
 
-<a href="https://angular.io/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="55" height="55"/></a>
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/></a>
-<a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="55" height="55"/></a>
-<a href="https://jquery.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jquery" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://angular.io/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" width="55" height="55"/><br/>Angular</a></td>
+<td align="center" width="90"><a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="55" height="55"/><br/>React</a></td>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="55" height="55"/><br/>HTML5</a></td>
+<td align="center" width="90"><a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="55" height="55"/><br/>CSS3</a></td>
+<td align="center" width="90"><a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="55" height="55"/><br/>Bootstrap</a></td>
+<td align="center" width="90"><a href="https://jquery.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="55" height="55"/><br/>jQuery</a></td>
+</tr></table>
 
 ### 🗄️ Databases
 
-<a href="https://www.oracle.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="55" height="55"/></a>
-<a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="55" height="55"/></a>
-<a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="55" height="55"/></a>
-<a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://www.oracle.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="55" height="55"/><br/>Oracle</a></td>
+<td align="center" width="90"><a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="55" height="55"/><br/>PostgreSQL</a></td>
+<td align="center" width="90"><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="55" height="55"/><br/>MySQL</a></td>
+<td align="center" width="90"><a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="55" height="55"/><br/>MongoDB</a></td>
+</tr></table>
 
 ### 🔌 Microservices & Integration
 
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Kong](https://img.shields.io/badge/Kong-002659?style=for-the-badge&logo=kong&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white) ![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white) ![REST](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white) ![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Kong](https://img.shields.io/badge/Kong-002659?style=for-the-badge&logo=kong&logoColor=white)
 
 ### 🚀 DevOps & Tools
 
-<a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="55" height="55"/></a>
-<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a>
-<a href="https://about.gitlab.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" alt="gitlab" width="55" height="55"/></a>
-<a href="https://www.sonarqube.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" alt="sonarqube" width="55" height="55"/></a>
-<a href="https://maven.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" alt="maven" width="55" height="55"/></a>
-<a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="55" height="55"/><br/>Docker</a></td>
+<td align="center" width="90"><a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55" height="55"/><br/>Git</a></td>
+<td align="center" width="90"><a href="https://about.gitlab.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="55" height="55"/><br/>GitLab</a></td>
+<td align="center" width="90"><a href="https://www.sonarqube.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sonarqube/sonarqube-original.svg" width="55" height="55"/><br/>SonarQube</a></td>
+<td align="center" width="90"><a href="https://maven.apache.org/"><img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-icon.svg" width="55" height="55"/><br/>Maven</a></td>
+<td align="center" width="90"><a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="55" height="55"/><br/>Linux</a></td>
+</tr></table>
 
 ### ☁️ Cloud & Other
 
-<a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="55" height="55"/></a>
-<a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="55" height="55"/></a>
-<a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="55" height="55"/></a>
-<a href="https://www.jetbrains.com/idea/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="55" height="55"/></a>
-<a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/></a>
+<table><tr>
+<td align="center" width="90"><a href="https://cloud.google.com"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="55" height="55"/><br/>GCP</a></td>
+<td align="center" width="90"><a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="55" height="55"/><br/>Firebase</a></td>
+<td align="center" width="90"><a href="https://developer.android.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="55" height="55"/><br/>Android</a></td>
+<td align="center" width="90"><a href="https://www.jetbrains.com/idea/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="55" height="55"/><br/>IntelliJ</a></td>
+<td align="center" width="90"><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55" height="55"/><br/>VS Code</a></td>
+</tr></table>
 
 </div>
 
@@ -173,12 +161,7 @@ const abel = {
 
 <div align="center">
 
-<a href="https://github.com/abelgomezc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelgomezc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4DA8DA&icon_color=4DA8DA" alt="GitHub stats" />
-</a>
-<a href="https://github.com/abelgomezc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelgomezc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DA8DA&langs_count=8" alt="Top Langs" />
-</a>
+<a href="https://github.com/abelgomezc"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=abelgomezc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=4DA8DA&icon_color=4DA8DA" alt="GitHub stats" /></a> <a href="https://github.com/abelgomezc"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abelgomezc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4DA8DA&langs_count=8" alt="Top Langs" /></a>
 
 <br/>
 
@@ -188,13 +171,7 @@ const abel = {
 
 </div>
 
-### 🔝 Top Contributed Repos
 
-<div align="center">
-  <a href="https://github.com/abelgomezc">
-    <img src="https://github-contributor-stats.vercel.app/api?username=abelgomezc&limit=5&theme=tokyonight&hide_border=true&combine_all_yearly_contributions=true" alt="top contribs" />
-  </a>
-</div>
 
 ### 📇 Profile Summary
 
@@ -228,26 +205,9 @@ const abel = {
   </a>
 </div>
 
-### 🌐 3D Contribution Calendar
 
-<div align="center">
-  <a href="https://github.com/abelgomezc">
-    <img src="https://raw.githubusercontent.com/abelgomezc/abelgomezc/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3d contributions" />
-  </a>
-</div>
 
-<!-- ════════════════════ SNAKE ════════════════════ -->
-## 🐍 Contribution Snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abelgomezc/abelgomezc/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abelgomezc/abelgomezc/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/abelgomezc/abelgomezc/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
 
 <!-- ════════════════════ ANIMATED DIVIDER ════════════════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3px"/>
@@ -322,14 +282,5 @@ const abel = {
 
 <!-- ════════════════════ FOOTER ════════════════════ -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer" alt="footer" />
-
-### ⭐ From [@abelgomezc](https://github.com/abelgomezc) — Built with ❤️ in Cuenca, Ecuador 🇪🇨
-
-<sub><em>Thanks for visiting! If you liked something here, drop a ⭐ on any of my repos.</em></sub>
-
 </div>
-
-<!-- Proudly enhanced with extra animations 🎬 -->
-
