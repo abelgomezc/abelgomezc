@@ -7,9 +7,21 @@
 -->
 
 <!-- ════════════════════ HEADER WAVE BANNER ════════════════════ -->
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=240&section=header&text=Abel%20Sebasti%C3%A1n%20G%C3%B3mez&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20%26%20Full%20Stack%20Developer%20%E2%9A%A1&descAlignY=58&descSize=18" alt="header" />
+
+
+
+<div align="center">
+<table border="0" cellspacing="0" cellpadding="0"><tr>
+<td align="center">
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="480" alt="Robot programando"/>
+</td>
+<td align="center">
+<h1>Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"/><br/>I'm Abel</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=600&color=4DA8DA&center=true&vCenter=true&width=380&lines=Backend+Developer+%7C+Full+Stack+%F0%9F%92%BB;Java+%26+Spring+Boot+%E2%98%95;PHP+%26+Symfony+%7C+Oracle+%F0%9F%93%8A;Microservices+%7C+Kafka+%7C+gRPC+%E2%9A%A1" alt="typing" />
+</td>
+</tr></table>
+<br/>
 
 <!-- ════════════════════ WAVING HAND TITLE ════════════════════ -->
 <h1>
